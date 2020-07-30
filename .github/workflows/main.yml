@@ -1,11 +1,14 @@
 name: Waka Readme
 
+# controls when the action runs
+# triggers the workflow on push/pull, ONLY for master branch
 on:
-  workflow_dispatch:
   push:
-    branches: [ master ]
+    branches:  master 
+  workflow_dispatch:
   schedule:
-    - cron: '1 0 * * *' 
+    # runs at 12am UTC
+    - cron: '0 0 * * *' 
 
 jobs:
   update-readme:
