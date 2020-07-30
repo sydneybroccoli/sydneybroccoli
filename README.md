@@ -34,6 +34,9 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 <br>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!-- **CURRENT PROJECTS** -->
