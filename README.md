@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/gmail-B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:sbarovsky@gmail.com)
 
 [<img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sydneybarovsky/)
-[<img src="https://img.shields.io/badge/angel-000000.svg?&style=for-the-badge&logo=angellist&logoColor=white" />](www.angel.co/u/sydneybarovsky)
+<!-- [<img src="https://img.shields.io/badge/angel-000000.svg?&style=for-the-badge&logo=angellist&logoColor=white" />](www.angel.co/u/sydneybarovsky) -->
 [<img src="https://img.shields.io/badge/github-24292E.svg?&style=for-the-badge&logo=github&logoColor=white" />](www.github.com/sydneybroccoli)
 [<img src="https://img.shields.io/badge/code wars-AC2E22.svg?&style=for-the-badge&logo=codewars&logoColor=white" />](www.codewars.com/users/sydneybroccoli)
 [<img src="https://img.shields.io/badge/stack overflow-F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />](https://stackoverflow.com/users/13605463/sydney-broccoli?tab=profile)
