@@ -15,7 +15,7 @@
 
 **OPEN FOR WORK**
 
-Aspiring Full-Stack Web Developer with education and experience in the fields of Biomedical Engineering and medical device research.  Recently graduated from Le Wagon Coding Bootcamp in Bali, Indonesia.  Currently working on some personal projects.
+Junior Full-Stack Web Developer with a background and education in Biomedical Engineering and medical device research.  Recently graduated (March 2020) from Le Wagon: Coding Bootcamp in Bali, Indonesia.  Currently continuing work on continued learning and personal projects while seeking full-time employment opportunities.
 
 ---
 
@@ -25,9 +25,9 @@ Aspiring Full-Stack Web Developer with education and experience in the fields of
 
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
-<br><br>
+<br>
 
-**MOST RECENT PROJECTS**
+**CURRENT/RECENT PROJECTS**
 - [Mile High Club](https://github.com/sydneybroccoli/the-milehigh-club)
 - [Right Dose](https://github.com/josephdriver/right-dose)
 
