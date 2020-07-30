@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 # >> SYDNEY BAROVSKY <<
 
@@ -24,6 +24,8 @@ Aspiring Full-Stack Web Developer with education and experience in the fields of
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+
+<br><br>
 
 **MOST RECENT PROJECTS**
 - [Mile High Club](https://github.com/sydneybroccoli/the-milehigh-club)
