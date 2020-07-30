@@ -33,7 +33,10 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <br>
 
-**CURRENT/RECENT PROJECTS**
+**CURRENT WORK**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![sydneybroccoli/the-milehigh-club - GitHub](https://gh-card.dev/repos/sydneybroccoli/the-milehigh-club.svg)](https://github.com/sydneybroccoli/the-milehigh-club)
 [![josephdriver/right-dose - GitHub](https://gh-card.dev/repos/josephdriver/right-dose.svg)](https://github.com/josephdriver/right-dose)
