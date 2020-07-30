@@ -36,6 +36,9 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 **CURRENT WORK**
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 [![sydneybroccoli/the-milehigh-club - GitHub](https://gh-card.dev/repos/sydneybroccoli/the-milehigh-club.svg)](https://github.com/sydneybroccoli/the-milehigh-club)
