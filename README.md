@@ -1,4 +1,24 @@
-### Hi there 👋
+# >> SYDNEY BAROVSKY
+
+### FIND ME
+- [WEBPAGE](www.sydneybarovsky.com)
+- [LINKEDIN](www.linkedin.com/in/sydneybarovsky)
+- [GITHUB](www.github.com/sydneybroccoli)
+
+### FUND ME
+- [VENMO]()
+- [PAYPAL]()
+- [BUYMECOFFEE]()
+
+ABOUT ME...
+
+## WORK
+
+
+### WORK IN PROGRESS...
+
+
+
 
 <!--
 **sydneybroccoli/sydneybroccoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
