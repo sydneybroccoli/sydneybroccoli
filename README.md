@@ -32,7 +32,7 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2020 - 04 August, 2020
+Week: 29 July, 2020 - 05 August, 2020
 
 Markdown   1 hr 27 mins    ██████████████████████░░░   88.98 % 
 Ruby       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
