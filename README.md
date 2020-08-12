@@ -32,13 +32,13 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2020 - 10 August, 2020
+Week: 04 August, 2020 - 11 August, 2020
 
-ERB          3 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.21 % 
-JavaScript   3 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   31.04 % 
-SCSS         2 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   22.06 % 
-Ruby         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Markdown     16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+ERB          3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.91 % 
+JavaScript   3 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.04 % 
+SCSS         2 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   22.77 % 
+Ruby         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Markdown     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 <!--END_SECTION:waka-->
 
