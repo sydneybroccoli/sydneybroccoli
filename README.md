@@ -32,7 +32,7 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2020 - 11 August, 2020
+Week: 05 August, 2020 - 12 August, 2020
 
 ERB          3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.91 % 
 JavaScript   3 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   32.04 % 
