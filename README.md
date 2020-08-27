@@ -32,11 +32,11 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 August, 2020 - 25 August, 2020
+Week: 19 August, 2020 - 26 August, 2020
 
-JSX     40 mins         ████████████████████████▒   96.97 % 
-JSON    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+JSX     1 hr 51 mins    ████████████████████████▓   98.87 % 
+JSON    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 
