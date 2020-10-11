@@ -32,12 +32,10 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-JavaScript   5 hrs 30 mins   ███████████████████████░░   91.62 % 
-JSX          26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-CSV          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript   1 hr 8 mins     ██████████████████░░░░░░░   71.54 % 
+JSX          26 mins         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
 ```
 <!--END_SECTION:waka-->
 
