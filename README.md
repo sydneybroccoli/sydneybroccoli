@@ -32,7 +32,12 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 November, 2020 - 04 December, 2020
+
+Ruby         1 hr 9 mins     ████████████████▓░░░░░░░░   66.11 % 
+Other        22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.40 % 
+ERB          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+YAML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 ```
 <!--END_SECTION:waka-->
 
