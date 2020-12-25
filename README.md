@@ -32,13 +32,13 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 December, 2020 - 23 December, 2020
+Week: 17 December, 2020 - 24 December, 2020
 
-JavaScript   7 hrs 45 mins   ██████████████▓░░░░░░░░░░   58.38 % 
-Ruby         2 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-YAML         2 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 % 
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+JavaScript   6 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.55 % 
+Ruby         2 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 % 
+YAML         2 hrs 29 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.91 % 
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
 
