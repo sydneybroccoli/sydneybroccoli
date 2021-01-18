@@ -32,12 +32,12 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
-JavaScript   56 mins         ██████████████████░░░░░░░   72.10 % 
-HTML         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Other        8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Ruby         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JavaScript   7 hrs 35 mins   ████████████████████████░   95.36 % 
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Ruby         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
 
