@@ -32,7 +32,7 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 February, 2021 - 23 February, 2021
+Week: 17 February, 2021 - 24 February, 2021
 
 Ruby       5 hrs 4 mins    ████████████▒░░░░░░░░░░░░   48.88 % 
 SCSS       4 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   39.12 % 
