@@ -32,11 +32,11 @@ Junior Full-Stack Web Developer with a background and education in Biomedical En
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 March, 2021 - 18 March, 2021
+Week: 12 March, 2021 - 19 March, 2021
 
-YAML   2 hrs 57 mins   █████████████████░░░░░░░░   68.65 % 
-Ruby   1 hr 7 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.92 % 
-SCSS   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Ruby   1 hr 52 mins    ██████████████▓░░░░░░░░░░   59.26 % 
+YAML   56 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 % 
+SCSS   21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 <!--END_SECTION:waka-->
 
