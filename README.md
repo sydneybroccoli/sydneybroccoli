@@ -14,7 +14,9 @@
 
 **OPEN FOR WORK**
 
-Junior Full-Stack Web Developer with a background and education in Biomedical Engineering and medical device research.  Graduated with a BS in Biomedical/Electrical Engineering from Marquette University (2017) and Le Wagon: Coding Bootcamp in Bali, Indonesia (2020).  Currently working as a freelnce software engineer while continuing pursuit of further education and personal projects. Open to any work opportunities.
+Junior Full-Stack Web Developer with a background and education in Biomedical Engineering and medical device research.  Graduated with a BS in Biomedical/Electrical Engineering from Marquette University (2017) and Le Wagon: Coding Bootcamp in Bali, Indonesia (2020).  Currently working as a freelance software engineer/developer while continuing pursuit of further education and personal projects.
+ 
+Contact me if interested in my services.
  
 ---
 
